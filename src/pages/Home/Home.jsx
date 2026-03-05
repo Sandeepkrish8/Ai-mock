@@ -50,6 +50,10 @@ const Home = () => {
         </div>
 
       </div>
+
+      <div className="hero-right">
+        <img src="https://image.lexica.art/full_webp/515d8991-f14a-4c42-a3f6-f53fcf10a2ec" alt="AI Interview Coach" className="hero-image" />
+      </div>
       
       <section className="features">
 
